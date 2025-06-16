@@ -1,116 +1,62 @@
-# Hi there, I'm Oussama 👋
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/oussama-tafati/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/OussamaTafati" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>&nbsp;
-<a href="https://web.facebook.com/oussama.tft.2025/photos" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>&nbsp;
-<a href="https://t.me/oussama_099" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/oussama._.tft_/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/oussama-tafati/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/OussamaTafati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/oussama.tft.2025/photos" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://t.me/oussama_099" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/oussama._.tft_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-## 👨‍💻 About Me
-
-- 🇩🇿 I'm a Python developer from Algeria.
-- 🧠 I love solving problems using code, especially in backend systems and automation.
-- 🛠️ Technologies I use frequently:
-  - **Python**, **FastAPI**, **Flask**
-  - **SQL**, **MongoDB**
-  - **Git**, **Linux**, **Docker**
-- 🔍 I'm currently learning about data pipelines & cloud computing.
-- 🎯 Fun fact: I enjoy math, logic puzzles, and working on open-source.
-
-## 🚀 Technologies & Tools
+---
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </p>
+
+---
+
+## 👨‍💻 Bio
+
+- 🇩🇿 I'm a **Python developer** from **Algeria**
+- 🔧 I focus on **backend development**, scripting, and automation
+- 🐧 Comfortable using **Linux**, **Git**, and **Docker**
+- 📚 Constantly learning new tools and building cool things
+- 🎯 I'm open to collaborating on real-world projects and open source
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
 
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaTafati&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaTafati&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaTafati&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaTafati&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🧠 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 💬 Let's Connect!
 
----
-
-## 🤝 Let's Connect
-- 💬 Open to collaboration on Python or open-source projects
-- 📫 Reach me on:
-  - [LinkedIn](https://www.linkedin.com/in/oussama-tafati/)
-  - [GitHub](https://github.com/OussamaTafati)
-  - [Facebook](https://web.facebook.com/oussama.tft.2025/photos)
-  - [Telegram](https://t.me/oussama_099)
-  - [Instagram](https://www.instagram.com/oussama._.tft_/)# Hi there, I'm Oussama 👋
-
-<p align="center">
-<a href="https://www.linkedin.com/in/oussama-tafati/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/OussamaTafati" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>&nbsp;
-<a href="https://web.facebook.com/oussama.tft.2025/photos" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>&nbsp;
-<a href="https://t.me/oussama_099" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/oussama._.tft_/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
-</p>
-
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-## 👨‍💻 About Me
-
-- 🇩🇿 I'm a Python developer from Algeria.
-- 🧠 I love solving problems using code, especially in backend systems and automation.
-- 🛠️ Technologies I use frequently:
-  - **Python**, **FastAPI**, **Flask**
-  - **SQL**, **MongoDB**
-  - **Git**, **Linux**, **Docker**
-- 🔍 I'm currently learning about data pipelines & cloud computing.
-- 🎯 Fun fact: I enjoy math, logic puzzles, and working on open-source.
-
-## 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>
-</p>
-
-## 📈 GitHub Stats
-
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaTafati&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaTafati&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🧠 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-## 🤝 Let's Connect
-- 💬 Open to collaboration on Python or open-source projects
-- 📫 Reach me on:
-  - [LinkedIn](https://www.linkedin.com/in/oussama-tafati/)
-  - [GitHub](https://github.com/OussamaTafati)
-  - [Facebook](https://web.facebook.com/oussama.tft.2025/photos)
-  - [Telegram](https://t.me/oussama_099)
-  - [Instagram](https://www.instagram.com/oussama._.tft_/)
-
-
-
----
-
-## 🤝 Let's Connect
-- 💬 Open to collaboration on open-source or Python-based projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/oussama-tafati/) or through GitHub
-
+Feel free to reach out for collaboration, freelancing, or just to chat tech 👇  
+[LinkedIn](https://www.linkedin.com/in/oussama-tafati/) • [Telegram](https://t.me/oussama_099) • [Instagram](https://www.instagram.com/oussama._.tft_/) • [Facebook](https://web.facebook.com/oussama.tft.2025/photos)
