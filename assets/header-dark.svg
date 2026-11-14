@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Oussama Tafati</title>
+  <desc id="desc">Python, backend development and automation. Developer based in Algeria, open to collaboration.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#24313F"/></pattern>
+    <clipPath id="corners"><rect width="1200" height="380" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#corners)">
+    <rect width="1200" height="380" fill="#11151C"/>
+    <rect x="756" width="444" height="380" fill="url(#grid)"/>
+    <path d="M756 0V380" stroke="#2B3543"/>
+    <path d="M0 1H1200" stroke="#F1BC69" stroke-width="3"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <circle cx="57" cy="61" r="5" fill="#8AD6C4"/>
+      <text x="75" y="66" font-size="16" letter-spacing="3" fill="#B4BECD">DEVELOPER / ALGERIA</text>
+      <text x="48" y="164" font-size="76" font-weight="700" letter-spacing="-3" fill="#F5F2EA">Oussama Tafati<tspan fill="#F1BC69">.</tspan></text>
+      <text x="52" y="214" font-size="26" fill="#B4BECD">Backend development &amp; automation.</text>
+      <path d="M52 253H700" stroke="#2B3543"/>
+      <text x="52" y="293" font-size="19" font-weight="700" fill="#F1BC69">PYTHON</text>
+      <circle cx="146" cy="287" r="2" fill="#B4BECD"/>
+      <text x="162" y="293" font-size="19" fill="#B4BECD">Useful scripts. Practical applications.</text>
+      <text x="52" y="343" font-size="14" letter-spacing="2" fill="#B4BECD">OPEN TO COLLABORATION</text>
+    </g>
+    <rect x="820" y="65" width="314" height="250" rx="18" fill="#171E28" stroke="#2B3543"/>
+    <path d="M820 112H1134" stroke="#2B3543"/>
+    <circle cx="844" cy="89" r="4" fill="#F1BC69"/>
+    <circle cx="860" cy="89" r="4" fill="#8AD6C4"/>
+    <circle cx="876" cy="89" r="4" fill="#B4BECD"/>
+    <text x="1108" y="94" text-anchor="end" font-family="monospace" font-size="13" fill="#B4BECD">build.py</text>
+    <path d="M911 151L866 191L911 231M1043 151L1088 191L1043 231" stroke="#F1BC69" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M999 143L955 239" stroke="#8AD6C4" stroke-width="9" stroke-linecap="round"/>
+    <text x="977" y="285" text-anchor="middle" font-family="monospace" font-size="16" fill="#B4BECD">idea → code → improve</text>
+    <rect x="0.5" y="0.5" width="1199" height="379" rx="23.5" stroke="#2B3543"/>
+  </g>
+</svg>
